@@ -1,0 +1,3 @@
+Tuve que utilizar IA para saber como hacer que funcione llamar a la función ingresarConInvitado() desde la clase Main, ya que hacer lo siguiente no funcionaba:
+
+membresías.getLast().ingresarConInvitado();
