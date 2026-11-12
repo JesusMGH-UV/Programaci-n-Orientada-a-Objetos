@@ -27,7 +27,10 @@ Se desarrolló una suite con **6 pruebas unitarias** independientes en IntelliJ 
 ## Evidencias de Ejecución
 Al ejecutar `ArrayOperationsTest` en IntelliJ IDEA, se obtuvieron **5 pruebas exitosas y 1 fallo esperado** (`1 test failed, 5 passed, 6 tests total`), confirmando que la prueba `testCeroEnPrimeraPosicion()` detecta correctamente el defecto del índice inicial.
 
-*(Arrastra y suelta aquí tus capturas de pantalla directamente en el editor de GitHub)*
+<img width="1058" height="528" alt="Captura de pantalla 2026-11-12 124610" src="https://github.com/user-attachments/assets/a325c281-8111-4679-b4ec-112333a8366d" />
+<img width="1275" height="392" alt="Captura de pantalla 2026-11-12 124600" src="https://github.com/user-attachments/assets/ca8bebde-d3b6-48f1-8f5f-694a96f4bd57" />
+
+
 
 ---
 
